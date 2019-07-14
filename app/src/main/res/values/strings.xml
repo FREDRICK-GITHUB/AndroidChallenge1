@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidChallenge1</string>
+    <string name="toolbar">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">my profile</string>
+
+    <string name="name">Fredrick Maina</string>
+    <string name="trackt">Track: </string>
+    <string name="track">Android Track</string>
+    <string name="countryt">Country: </string>
+    <string name="country">Kenya</string>
+    <string name="emailt">Email: </string>
+    <string name="email">fredmainahk@gmail.com</string>
+    <string name="phone_not">Phone Number: </string>
+    <string name="phone_no">+254719408977</string>
+    <string name="slack_usernamet">Slack Username: </string>
+    <string name="slack_username">\@Fred</string>
+
+
+</resources>
